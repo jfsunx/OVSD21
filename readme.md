@@ -38,7 +38,7 @@ After loading the model into the GPU, open the browser on ```http//localhost:786
 
 ![image](./doc/pics/gui.png)
 
-### Speed on Intel ARC 770
+### Speed on Intel ARC A770
 
 ![image](./doc/pics/terminal.png)
 
