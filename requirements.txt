@@ -1,0 +1,8 @@
+numpy
+opencv-python
+gradio
+transformers
+diffusers
+openvino
+pillow
+torch
